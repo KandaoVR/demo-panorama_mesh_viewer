@@ -1,0 +1,23 @@
+##########
+# Visual Studio
+*.sdf
+*.opensdf
+*.suo
+*.pdb
+*.user
+*.deps
+*.tmp
+*.psess
+*.ipdb
+*.iobj
+*VC.db
+*VC.opendb
+*vcxproj.user
+
+##########
+ipch
+obj
+x64
+Win32
+Debug
+Release
